@@ -18,7 +18,7 @@ The data we're analyzing comes from a jupyter notebook that we'll create and imp
 
 * [SVM](https://scikit-learn.org/stable/modules/svm.html) - Machine Learning techniques to train our model data.
   
-* [Niave Bayes](https://scikit-learn.org/stable/modules/naive_bayes.html) - Machine Learning techniques to train our model data.
+* [Naive Bayes](https://scikit-learn.org/stable/modules/naive_bayes.html) - Machine Learning techniques to train our model data.
 
 ---
 
